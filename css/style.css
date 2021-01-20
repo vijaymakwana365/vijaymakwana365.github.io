@@ -1,34 +1,11 @@
-/*--------------------- Copyright (c) 2018 -----------------------
-[Master Stylesheet]
-
-Project: Portfolio Responsive HTML Template
-Version: 1.0.0
-Assigned to: ThemeForest
--------------------------------------------------------------------
-
-[Table of contents]
-
-1. Body
-2. Typography css / a
-3. Main Wrapper / .prt_main_wrapper
-4. About css Start / .prt_about_wrapper
-5. Contact Page css Start / .prt_contact_wrapper
-6. Services css Start / .prt_services_wrapper
-7. Portfolio css Start / .prt_portfolio_wrapper
-8. Footer css Start / .prt_footer_wrapper
-9. Responsive css Start / .prt_counter_box
--------------------------------------------------------------------*/
-/*--------- Body Strat -------*/
 body {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 15px;
 	line-height: 1.5;
 	color: #b7b7b7;
-	background-color:#010101;
+	background-image: linear-gradient(#060723, #243853);
 	-webkit-font-smoothing: antialiased;
 }
-/*--------- Body End -------*/
-/*---------- Typography Css Start -------*/
 a {
 	color: #b7b7b7;
 	text-decoration: none;
@@ -257,9 +234,9 @@ input:focus, textarea:focus, select:focus, button:focus {
 }
 .prt_home_wrapper{
 	background-image:url(../images/content/banner_bg.jpg);
-	background-position: center center;
+	background-position: left;
 	background-repeat:no-repeat;
-	background-size:cover;
+	background-size:contain;
 	position:relative;
 	overflow-y:auto;
     padding: 200px 0px;
@@ -267,7 +244,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_home_wrapper h1{
 	position:absolute;
 	top:50%;
-	font-size:150px;
+	font-size:100px;
 	color: #ffffff;
 	font-weight:bold;
 	background: url(../images/content/banner_text_bg.jpg) no-repeat;
