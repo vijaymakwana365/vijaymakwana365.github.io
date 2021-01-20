@@ -233,7 +233,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-color: #000000;
 }
 .prt_home_wrapper{
-	background-image:url(../images/content/banner_bg.jpg);
+	background-image:url(../images/banner_bg.jpg);
 	background-position: left;
 	background-repeat:no-repeat;
 	background-size:contain;
@@ -247,7 +247,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	font-size:100px;
 	color: #ffffff;
 	font-weight:bold;
-	background: url(../images/content/banner_text_bg.jpg) no-repeat;
+	background: url(../images/banner_text_bg.jpg) no-repeat;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
     background-size: cover;
@@ -878,13 +878,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     transition: all 0.3s;
 }
 .prt_contact_details_box.details_box1{
-	background-image:url(../images/content/dtl_box1.jpg);
+	background-image:url(../images/dtl_box1.jpg);
 }
 .prt_contact_details_box.details_box2{
-	background-image:url(../images/content/dtl_box2.jpg);
+	background-image:url(../images/dtl_box2.jpg);
 }
 .prt_contact_details_box.details_box3{
-	background-image:url(../images/content/dtl_box3.jpg);
+	background-image:url(../images/dtl_box3.jpg);
 }
 /*---------- Services css Start -------*/
 .prt_services_wrapper{
@@ -1050,7 +1050,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_couter_wrapper{
     display: inline-block;
     width: 100%;
-	background-image:url(../images/content/counter_bg.jpg);
+	background-image:url(../images/counter_bg.jpg);
 	background-position:center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -1111,28 +1111,28 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image:url(../images/content/progress_1.png);
+	background-image:url(../images/progress_1.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-2{
-	background-image:url(../images/content/progress_2.png);
+	background-image:url(../images/progress_2.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-3{
-	background-image:url(../images/content/progress_3.png);
+	background-image:url(../images/progress_3.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-4{
-	background-image:url(../images/content/progress_4.png);
+	background-image:url(../images/progress_4.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
