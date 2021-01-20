@@ -247,10 +247,10 @@ input:focus, textarea:focus, select:focus, button:focus {
 	font-size:100px;
 	color: #ffffff;
 	font-weight:bold;
-	background: url(../images/banner_text_bg.jpg) no-repeat;
+	background: url(../images/vijay-makvana.jpg) no-repeat;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-    background-size: cover;
+    background-size: auto;
     background-position: -41px -85px;
 }
 .prt_logo_wrapper img{
